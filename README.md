@@ -1,4 +1,4 @@
-Hei. Eg er menneske, du kan òg kalle meg Astrid. 
+Hei. Eg er human, du kan òg kalle meg Astrid. 
 Eg studerer for tida ved Universitetet i Oslo. 
 Eg kan snakke svensk, engelsk, tysk og norsk nynorsk. Eg kan snakke bokmål, men ikkje veldig bra.
 Eg er open for tilsetjing innan maskinlæring, cybersikkerheit og webdesign.
